@@ -1,3 +1,13 @@
+
 body{
-    background: #BDBDBD;
+    background: white;
+}
+
+.slim-line {
+    display: block;
+    width: 100%; /* Adjust as needed */
+    height: 1px; /* Slim height */
+    background-color: #000; /* Black color */
+    margin: 10px 0; /* Add spacing above and below */
+    border: none; /* No border */
 }
